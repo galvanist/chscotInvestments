@@ -1,0 +1,5 @@
+Using the Creative Scotland Investments dataset provided at Culture Hack Scotland 2012 this repo has python scripts to create some more CSV sources (for postcode LatLongs) and then output as a kml file for use in Google Earth or Google Maps.
+
+Have to be very careful with the usage of the Google Maps Geocode API or you might get a ban, we spent several hours debugging our sleep-deprived hacky Python code before we even noticed this was why.
+
+At present this repo does not fully represent the work done at Culture Hack Scotland 2012 but has identified and allowed fixing of several bugs and results are much more accessible in Google maps. Reworking of the postcode areas and 3d extrusions for Google Earth are still to come. Potential further work includes using Ordanance Survey Code-Point open data to identify regional funding and gaps against population to identify the elusive "Uncreative Scotland" version.
