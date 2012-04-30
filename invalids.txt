@@ -1,0 +1,15 @@
+postcode [] invalid for Angus Council
+postcode [] invalid for West Dunbartonshire Council
+postcode [B1P 5T9] invalid for Celtic Colours Festival Society
+postcode [] invalid for Sligo Musicfest Ltd
+postcode [50008] invalid for Jessica Aliaga Lavrijsen
+postcode [] invalid for International Society for the Performing Arts (ISPA)
+postcode [] invalid for Leone Editore Srl
+postcode [] invalid for The Work Room
+postcode [] invalid for N/A
+postcode [] invalid for Ben Harrison
+amount [] not acceptable for Crafts Council of Ireland
+postcode [BT7] invalid for Queen’s University Press
+amount [] not acceptable for The Haining Charitable Trust
+amount [] not acceptable for Thickskin
+postcode [] invalid for Julie Ellen
